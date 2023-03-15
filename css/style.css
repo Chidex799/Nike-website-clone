@@ -1,0 +1,435 @@
+body {
+    background-color: #2A5D67;
+}
+
+
+/* NAVBAR */
+.logo-image {
+    width: 100px;
+    height: 50px;
+}
+
+.container-fluid {
+    padding: 3% 15% 0%;
+}
+
+.ml-auto {
+    margin-left: 150px;
+}
+
+.nav-item {
+    padding-left: 5%;
+    padding-right: 2%;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 43px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+
+.icons {
+    margin-right: 0px;
+    color: white;
+}
+
+.fa-magnifying-glass {
+    margin-right: 30px;
+    color: white;
+}
+
+.fa-cart-shopping {
+    color: white;
+    margin-right: 220px;
+}
+
+
+/* Title */
+.Nike {
+    color: #54BACF;
+
+}
+
+h1 {
+    width: 334px;
+    height: 350px;
+    left: 155px;
+    top: 281px;
+    font-family: 'Rowdies';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 133.4%;
+    /* or 107px */
+
+    letter-spacing: 0.01em;
+
+    color: #FFFFFF;
+}
+
+.title-padding {
+    padding: 0% 15% 7%;
+}
+
+.slogan {
+    padding-bottom: 7%;
+}
+
+.shoe {
+    width: 500px;
+    height: 300px;
+    left: 1217.82px;
+    top: 29px;
+    filter: drop-shadow(0px 29.9686px 11.8058px rgba(0, 0, 0, 0.2));
+    transform: matrix(-0.86, 0.51, 0.51, 0.86, 0, 0);
+}
+
+.Brand {
+    height: 200px;
+    width: 200px;
+    background: #54BACF;
+    margin-left: 200px;
+    border-radius: 20px;
+    box-shadow: 17px 20px 19px rgba(0, 0, 0, 0.25);
+}
+
+.Color {
+    height: 200px;
+    width: 200px;
+    background: #54BACF;
+    margin-left: 30px;
+    border-radius: 20px;
+    box-shadow: 17px 20px 19px rgba(0, 0, 0, 0.25);
+}
+
+.Price {
+    height: 200px;
+    width: 200px;
+    background: #54BACF;
+    margin-left: 30px;
+    border-radius: 20px;
+    box-shadow: 17px 20px 19px rgba(0, 0, 0, 0.25);
+
+}
+
+.box {
+    padding: 2% 17% 7%;
+}
+
+.btn {
+    background-color: #54BACF;
+    height: 80px;
+    width: 250px;
+    border-radius: 20px;
+    font-size: 1.7rem;
+    font-weight: bold;
+}
+
+.brand-h3 {
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 20%;
+}
+
+.brand-p {
+    color: white;
+    text-align: center;
+
+}
+
+
+/* Available products */
+
+#products {
+    padding: 7% 20% 7%;
+    background-color: #E2E7F7;
+}
+
+.product-text {
+    color: #2A5D67;
+    font-weight: bold;
+    font-size: 35px;
+    padding-bottom: 20px;
+}
+
+.first-shoe {
+    padding-top: 10px;
+    margin-left: 20px;
+    width: 200px;
+    height: 250px;
+    background: #2A5D67;
+    border-radius: 20px;
+}
+
+.first-image {
+    padding-top: 20PX;
+    width: 170px;
+    height: 100px;
+    filter: drop-shadow(0px 30px 4px rgba(0, 0, 0, 0.25));
+}
+
+.men {
+    font-size: 30px;
+    margin: 30PX 60PX 0PX;
+}
+
+.women {
+    font-size: 30px;
+    margin: 30px 40px;
+
+}
+
+.kids {
+    font-size: 30px;
+    margin: 30px 60px;
+}
+
+.collection {
+    font-size: 30px;
+    margin: 30px;
+}
+
+.btn-2 {
+    width: 130px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+
+/* Our Store */
+#store {
+    padding: 7% 20% 7%;
+    background-color: #CACFDF;
+}
+
+.store-text {
+    color: #2A5D67;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.store-select {
+    width: 100px;
+    height: 50px;
+    margin: 20px;
+    background: #2A5D67;
+    border-radius: 20px;
+}
+
+.store-row1 {
+    padding: 0% 20% 7%;
+}
+
+.store-all {
+    width: 100px;
+    height: 50px;
+    margin: 20px;
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+
+.women-h4 {
+    padding: 11px 1px 2px;
+    font-size: 20px;
+}
+
+.all-text {
+    color: #2A5D67;
+    padding: 11px 22px 10px;
+}
+
+
+h4 {
+    color: white;
+    padding: 10px 15px 0px;
+    font-size: 20px;
+}
+
+.air-max {
+    font-size: 30px;
+    padding: 30px 35px 3px;
+
+}
+
+.air-max1 {
+    font-size: 30px;
+    margin: 30PX 40PX 0PX;
+}
+
+.group2 {
+    padding-top: 20px;
+}
+
+.p {
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.air-max-pro {
+    font-size: 30px;
+    padding: 30px 15px 3px;
+}
+
+.all-whyte {
+    font-size: 30px;
+    padding: 30px 30px 3px;
+}
+
+
+/* New Products */
+#new-products {
+    padding: 7% 15% 7%;
+    background-color: #CACFDF;
+}
+
+.new-products-h3 {
+    color: #2A5D67;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.group3 {
+    padding: 30px 80px 20px;
+}
+
+/* footer */
+
+#footer {
+    padding: 5% 15% 7%;
+}
+
+.font-icons {
+    color: white;
+    padding-bottom: 10%;
+}
+
+.fa-brands {
+    margin-left: 5%;
+}
+
+.footer-image {
+    margin-left: 15%;
+}
+
+.fa-cc-amazon-pay {
+    margin-left: 10%;
+}
+
+.quick-div {
+    color: white;
+    padding-left: 5%;
+}
+
+.quick-links {
+    padding-bottom: 15px;
+}
+
+.info-div {
+    color: white;
+    padding-left: 4.5% ;
+}
+
+.input-text {
+    height: 55px;
+    width: 200x;
+}
+
+.send-btn {
+    margin: 10px 0 10px;
+    background-color: #040d0f;
+    color: white;
+    padding: 5px;
+}
+
+
+
+/* MEN PAGE SYLING */
+
+.men-select {
+    width: 100px;
+    height: 50px;
+    margin: 20px;
+    background: #ffffff;
+    border-radius: 20px;
+}
+
+.men-h4 {
+    color: #2A5D67;
+    padding: 15px 18px 0px;
+    font-size: 20px;
+}
+
+.men-group1 {
+    padding-left: 15%;
+}
+
+
+/* New comings */
+#new-comings {
+    padding: 7% 15% 7%;
+    background-color: #E2E7F7;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: #2A5D67;
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+span {
+    color: #ffffff;
+}
+
+.new-image {
+    padding-top: 20PX;
+    width: 170px;
+    height: 160px;
+    filter: drop-shadow(0px 30px 4px rgba(0, 0, 0, 0.25));
+}
+
+/* MEN.HTML COLOR CHANGE */
+.store-men {
+    width: 100px;
+    height: 50px;
+    margin: 20px;
+    background-color: #2A5D67;
+    border-radius: 20px;
+}
+
+.all-men {
+    color: white;
+    padding: 11px 22px 10px;
+}
+
+.women2-h4 {
+    padding: 11px 1px 2px;
+    font-size: 20px;
+    color: #2A5D67;
+}
+
+
+/* Kids */
+#store-kids {
+    padding: 7% 17% 7%;
+    background-color: #CACFDF;
+}
+
+.women-kids {
+    padding: 11px 1px 2px;
+    font-size: 20px;
+    color: #ffffff; 
+}
+
+.kids-color {
+    color: #2A5D67;
+}
