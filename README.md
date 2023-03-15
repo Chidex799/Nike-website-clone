@@ -1,2 +1,4 @@
 # Nike-website-clone
-A redesign of the nike website with pure HTML, CSS and Bootstrap
+
+This repository contains a redisgn of Nike Official website with four different pages for all categories
+this website was made wih pure HTML, CSS and Bootstrap.
